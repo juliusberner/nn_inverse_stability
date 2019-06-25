@@ -1,1 +1,1 @@
-Empirical tests showing the missing inverse stability of the neural network realization map. 
+Empirical tests illustrating the failure of inverse stability of the neural network realization map. 
